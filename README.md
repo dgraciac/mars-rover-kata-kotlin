@@ -21,7 +21,3 @@ You’re part of the team that explores Mars by sending remotely controlled vehi
 * Change roles (driver, navigator) after each TDD cycle.
 * No red phases while refactoring.
 * Be careful about edge cases and exceptions. We cannot afford to lose a mars rover, just because the developers overlooked a null pointer.
-
-Source: https://kata-log.rocks/mars-rover-kata
-
-![alt text](documentation/mars-rover-grid.jpg "Mars Rover Grid")

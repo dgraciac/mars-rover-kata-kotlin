@@ -10,8 +10,7 @@ You’re part of the team that explores Mars by sending remotely controlled vehi
     * 'F' means forward
     * 'R' means rotate right 90 degrees
     * 'L' means rotate left 90 degrees
-
-Example: "FRFLF"
+    * Example: "FRFLF"
     
 * Implement a function that takes a character array of commands and computes the final position and direction (N,W,S,E)
     

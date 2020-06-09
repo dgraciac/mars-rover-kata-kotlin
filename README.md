@@ -20,4 +20,4 @@ You’re part of the team that explores Mars by sending remotely controlled vehi
 
 # Note
 
-* Top and bottom edges are connected as well left and right edges.
+* Opposite edges are connected.
